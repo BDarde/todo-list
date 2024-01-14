@@ -55,7 +55,6 @@ body {
 .button-add-task:hover {
     opacity: 0.8;
     background-color: #003329;
-    transition: 0.7s;
 
 }
 
@@ -87,4 +86,9 @@ body {
 .task:hover img {
     opacity: 1;
 
+}
+
+.done {
+    background-color: #8fac55;
+    text-decoration: line-through;
 }
